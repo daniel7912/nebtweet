@@ -2,7 +2,8 @@
   "scripts": {
     "dev": "next",
     "build": "next build",
-    "start": "NODE_ENV=production node server.js"
+    "start": "NODE_ENV=production node server.js",
+    "pleskinstall": "npm install"
   },
   "dependencies": {
     "express": "^4.16.3",
